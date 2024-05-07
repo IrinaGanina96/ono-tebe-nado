@@ -20,7 +20,7 @@
     text-underline-position: under;
 }
 
-.header__links-list-item .header__link_active { 
+.header__links-list-item .header__link_active {
     text-decoration: none;
 }
 
@@ -272,7 +272,7 @@ address {
 }
 
 
-.footer__menu-list-item .footer__menu-link_active { 
+.footer__menu-list-item .footer__menu-link_active {
     text-decoration: none;
 }
 
