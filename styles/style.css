@@ -71,12 +71,10 @@ address {
     text-transform: uppercase;
     letter-spacing: 0.3em;
     z-index: 1;
-
 }
 
 .aligned-text {
     display: block;
- 
 }
 
 .aligned-text_center {
@@ -145,7 +143,6 @@ address {
     display: flex;
     list-style: none;
     gap: 25px;
-
 }
 
 .card {
@@ -204,7 +201,6 @@ address {
 .about {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    
 }
 
 .about__logo {
