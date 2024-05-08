@@ -2,13 +2,12 @@
     display: grid;
     grid-template-columns: 44% 30% auto;
     align-items: center;
-    
     font-weight: 400;
     font-size: 18px;
     color: #000;
 }
 
-.header__menu{
+.header__menu {
     margin: 136px 36px 136px 51px;
     font-weight: 400;
     font-size: 18px;
